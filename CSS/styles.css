@@ -1,0 +1,87 @@
+body{
+  font-family: 'Spartan', sans-serif;;
+}
+.Heading{
+  position:absolute;
+  top:20%;
+  left:12%;
+  width:85%;
+}
+.bottomdesktop{
+  width:845px;
+  position:absolute;
+  top:60%;
+  left:35%;
+}
+.colorheading{
+  color:hsl(300, 43%, 22%);
+  width:30%;
+  font-weight: 700;
+}
+
+.colorpara{
+  color:hsl(300, 24%, 85%);
+  width:45%;
+  font-weight: 400;
+}
+
+.Reviewstars{
+  position:absolute;
+  bottom:59%;
+  left:55%;
+  width:30%;
+  color: hsl(300, 43%, 22%);
+  font-weight:700;
+}
+.row1{
+  margin-top:10px;
+  background-color: hsl(300, 24%, 96%);
+  border-radius:5px;
+  padding-left:5px;
+  padding-right:5px;
+  padding-top:4px;
+}
+
+.Reviewbox{
+  position:absolute;
+  top:80%;
+  left:12%;
+  color:hsl(0, 0%, 100%);
+  width:80%;
+  margin-bottom:5px;
+
+}
+
+.col1{
+  margin-top:10px;
+  margin-left:25px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius:5px;
+  padding:25px;
+  height:250px;
+  width:15%;
+
+}
+.image1{
+  border-radius:100%;
+  width:50px;
+}
+
+.subtitle{
+  color:hsl(333, 80%, 67%);
+  position:absolute;
+  top:27%;
+  font-size: 12px;
+}
+
+.subtitle1{
+  left:9.5%;
+}
+
+.subtitle2{
+  left:43%;
+}
+
+.subtitle3{
+  left:76.5%;
+}
